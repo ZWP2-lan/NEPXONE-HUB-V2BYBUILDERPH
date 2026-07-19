@@ -1,6 +1,6 @@
 --[[============================================================
     Protected by Sudo Obfuscator
-    discord.gg/ZyXAgmSVPA
+    https://discord.gg/rfbAxacyzd
     This script is protected. Unauthorized deobfuscation,
     reverse-engineering, or removal of this notice is prohibited.
     ============================================================]]
