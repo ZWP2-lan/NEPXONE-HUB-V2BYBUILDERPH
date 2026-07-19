@@ -1,4 +1,4 @@
--[[============================================================
+--[[============================================================
     Protected by Sudo Obfuscator
     https://discord.gg/rfbAxacyzd
     This script is protected. Unauthorized deobfuscation,
